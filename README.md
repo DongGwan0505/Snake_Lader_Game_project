@@ -1,10 +1,14 @@
 # 게임 로직 파트
 
 > snake_game_v1.0 (기본 게임 기능 구현) (이동관)
-> [project_snake_game_v1.0.srcs.zip](attachment:1fbb2856-4e67-4f71-8105-5cf6d9915479:project_snake_game_v1.0.srcs.zip)
+>
+
+[project_snake_game_v1.0.srcs.zip](attachment:1fbb2856-4e67-4f71-8105-5cf6d9915479:project_snake_game_v1.0.srcs.zip)
 
 > snake_game_v1.1 (뱀 칸에 걸렸을 시 쉐이킹 효과 추가) (채민석)
-> [project_snake_game_v1.1.srcs.zip](attachment:3fe6b25f-e4f4-4c75-bf12-f475e08c3833:project_snake_game_v1.1.srcs.zip)
+>
+
+[project_snake_game_v1.1.srcs.zip](attachment:3fe6b25f-e4f4-4c75-bf12-f475e08c3833:project_snake_game_v1.1.srcs.zip)
 
 > snake_game_v1.2 (게임 타이틀, 게임 플레이어 인원수 결정 화면 추가) (이동관)
 > 
